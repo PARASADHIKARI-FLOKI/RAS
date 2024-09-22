@@ -1,0 +1,629 @@
+.hi ul {
+display: flex;
+justify-content: space-between;
+   flex-direction: row;
+   margin-left: 300px;
+   margin-right:   30px;
+   margin-top: -50px;
+   height:90px;
+   font-family: Helvetica,Arial;
+   font-size:18px;
+  
+
+}
+.hi li{
+    color:black;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+#logo{
+    height:60px ;
+    margin-left: 50px;
+    margin-top: 20px;
+    
+}
+.hi{
+background-color: whitesmoke;
+height: 80px;
+border-bottom: 2px  solid lightgray;
+
+
+}
+#search{
+width: 290px;
+height: 30px;
+margin-top: -10px;
+padding-left: 40px;
+border-radius: 8px;
+border-style: none;
+background-color: lightgreen;
+
+}
+.search-icon{
+    position: absolute;
+    margin: 5px 0 0 10px;
+    
+}
+
+#select-3{
+    appearance: none;
+}
+
+.icons-coll{
+    display: flex;
+    gap: 30px;
+    font-size: 25px;
+    margin-right: 0px;
+    
+}
+#food{
+    margin-left: 100px;
+    margin-right: 450px;
+    margin-top: 90px;
+    font-family: Poppins;
+    font-size: 36px;
+}
+#now{
+    margin-left: 100px;
+    height: 48px;
+    width: 130px;
+    border-radius: 20px;
+    border: none;
+    background-color: lightgreen;
+    color: white;
+    font-family: Poppins;
+
+
+}
+#foo{
+    color: lightgreen;
+}
+#p{
+    font-size: 16px;
+    font-family: Poppins;
+    margin-left: 100px;
+    margin-right: 450px;
+    margin-top: -20px;
+  
+
+}
+#women{
+    height: 430px;
+    margin-right: 50px;  
+    border-radius:200px ;
+
+}
+.foods{
+    height: 450px;
+
+border-bottom: 2px solid lightgray;
+display: flex;
+}
+
+select{ outline:none;
+    border:none;
+background-color: transparent;
+}
+#select-1{
+    font-size: 20px;
+}
+#select-2{
+    font-size: 20px;
+
+}
+#shop{
+    margin-left:-100px;
+}
+#login{
+    margin-top:-8px;
+    font-size: 16px;
+    margin-left: -8px;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+}
+
+#person-log{
+    margin-top: -5px;
+   height: 80px;
+}
+/* feature */  
+
+#feature{
+margin-left: 100px;
+font-family: Poppins;
+font-weight: 500;
+}
+#see{
+    margin-left: 82%;
+    margin-top: -60px;
+    font-family:  sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+}
+#arrow{
+    margin-left: 92%;
+    font-size: 50px;
+    margin-top: -60px;
+   color: lightgreen;
+
+}
+.items{
+    display: flex;
+justify-content: space-between;
+   flex-direction: row;
+   list-style: none;
+   margin-right: 100px;
+}
+#leave{
+    margin-left: 50px;
+    height: 180px;
+    border-radius: 10px;
+
+}
+.daura{
+    margin-left: 50px;
+    font-family:  sans-serif;
+    margin-top:28px;
+    font-weight: 100;
+    background-color: aqua;
+    width: 223px;
+    height: 110px;
+    text-align: center;
+    border-radius:20px ;
+
+   
+  
+}
+.daura h1{
+    font-size: 18px;
+   
+}
+#rate{
+    margin-left: -170px;
+    margin-top: -70px;
+
+}
+#star{
+    color: orange;
+}
+#chai{
+    height:180px ;
+    width: 220px;
+    background-color: whitesmoke;
+     border-radius: 12px;
+}
+.chai{
+    margin-left: 415px;
+    font-family:  sans-serif;
+    margin-top: -112px;
+    font-weight: 100;
+    background-color: aqua;
+    width: 221px;
+    height: 110px;
+    text-align: center;
+    border-radius:20px ;
+
+}
+#rates{
+    margin-left: -160px;
+    margin-top: -70px;
+
+}
+#tara{
+    color: orange;
+}
+#dari{
+    font-size: 18px; 
+}
+#house{
+    height:180px ;
+    background-color: whitesmoke;
+     border-radius: 12px;
+}
+.house{
+    margin-left: 777px;
+    font-family:  sans-serif;
+    margin-top: -112px;
+    font-weight: 100;
+    background-color: aqua;
+    width: 278px;
+    height: 110px;
+    text-align: center;
+    border-radius:20px ;
+
+}
+#ratess{
+    margin-left: -210px;
+    margin-top: -70px;
+}
+
+#burger{
+    font-size: 18px; 
+}
+#momo{
+    height:198px ;
+    background-color: whitesmoke;
+     border-radius: 12px;
+     
+} 
+
+.momo{
+    margin-left: 1194px;
+    font-family:  sans-serif;
+    margin-top: -90px;
+    font-weight: 100;
+    background-color: aqua;
+    width: 200px;
+    height: 90px;
+    text-align: center;
+    border-radius:20px ;
+
+}
+#everest{
+    font-size: 18px; 
+    margin-top: -10px;
+}
+#five{
+    margin-left: -145px;
+    margin-top: -5px;
+
+}#saat{
+    margin-top: -4px;
+}
+.border{
+    border: 2px solid lightgrey;
+    height: 400px;
+}
+
+
+/* special dishes */
+
+#special{
+    margin-left: 70px;
+    margin-top: 70px;
+    font-family: Poppins;
+    font-weight: 500;
+}
+#more{
+    margin-left: 82%;
+    margin-top: -60px;
+    font-family:  sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+}
+#arrows{
+    margin-left: 92%;
+    font-size: 50px;
+    margin-top: -60px;
+   color: lightgreen;
+}
+.pic{
+    display: flex;
+    justify-content: space-between;
+       flex-direction: row;
+       list-style: none;
+       margin-left: 50px;
+}
+#Fattoushsalad{
+    height: 230px;
+ border: 3px solid whitesmoke;
+ border-bottom: none;
+ border-top-left-radius:50px;
+ border-top-right-radius:50px;
+}
+#chicken{
+    height: 230px;
+    border: 3px solid whitesmoke;
+    border-top-left-radius:50px;
+    border-top-right-radius:50px;
+    margin-left: -250px;
+    border-bottom: none;
+}
+#chickenmomo{
+    height: 230px;
+    border: 3px solid whitesmoke;
+    border-top-left-radius:50px;
+    border-top-right-radius:50px;
+    margin-left: -250px;
+    border-bottom: none;
+}
+#chickenpasta{
+    height: 230px;
+    border: 3px solid whitesmoke;
+    border-top-left-radius:50px;
+    border-top-right-radius:50px;
+    margin-left: -230px;
+    margin-right: 50px;
+    border-bottom: none;
+}
+  
+ .salad{
+ border: 3px solid whitesmoke;
+ width: 346px;
+margin-left: 50px;
+margin-top: -40px;
+border-top: none;
+font-family:  Arial, sans-serif;
+border-bottom-right-radius:30px;
+border-bottom-left-radius:30px;
+}
+#fat{
+    margin-left: 30px;
+    font-size: 25px;
+   font-weight: 600;
+}
+#Lokanthali{
+    margin-left: 30px;
+   font-weight:  600;
+   color: gray;
+}
+#free{
+    margin-left: 70px;
+    font-weight:  600;
+    color: gray;
+ }
+ #van{
+  font-size: 30px;
+  margin-left: 25px;
+  margin-top:-40px;
+  color: grey;
+
+ }
+ #rs{
+    margin-left: 30px;
+font-size: 20px;
+color: green;
+ }
+ #rs1{
+    margin-left:100px ;
+    margin-top: -40px;
+    font-size: 18px;
+    text-decoration-line: line-through;
+    color: green;
+ }
+
+#four{
+margin-left: 250px;
+margin-top: -40px;
+}
+#fastar{
+color: orange;
+}
+.Burger-items{
+    margin-left: 464px;
+    margin-top: -200px;
+   border: 2px solid whitesmoke;
+   width: 346px;
+   border-bottom-right-radius:30px;
+border-bottom-left-radius:30px;
+font-family:  Arial, sans-serif;
+}
+.Chicken-Momo{
+    margin-left: 875px;
+    margin-top: -200px;
+   border: 2px solid whitesmoke;
+   width: 232px;
+   border-bottom-right-radius:30px;
+border-bottom-left-radius:30px;
+font-family:  Arial, sans-serif;
+}
+#momos{
+    margin-top: 20px;
+    font-size: 25px;
+    margin-left: 30px;
+
+}
+#balkot{
+    font-size: 15px;
+    margin-left: 16px;
+    font-weight:  600;
+    color: gray;
+}
+#fives{
+margin-left: 180px;
+margin-top: -40px;
+}
+.Chicken-Pasta{
+    margin-left: 1209px;
+    margin-top: -200px;
+   border: 2px solid whitesmoke;
+   width: 232px;
+   border-bottom-right-radius:30px;
+border-bottom-left-radius:30px;
+font-family:  Arial, sans-serif;
+}
+#Chabahil{
+    font-size: 15px;
+    margin-left: 30px;
+    font-weight:  600;
+    color: gray;
+}
+.foodsitems{
+    display: flex;
+    justify-content: space-between;
+       flex-direction: row;
+       list-style: none;
+       margin-left: 50px;
+       margin-right: 100px;
+       margin-top: 80px;
+}
+
+
+
+
+#SadekoAalu{
+    border: 3px solid whitesmoke;
+    height: 280px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom: none;
+}
+.sadeko{
+border: 3px solid whitesmoke;
+width: 255px;
+margin-left: 50px;
+margin-top: -90px;
+border-bottom-left-radius: 30px;
+border-bottom-right-radius: 30px;
+font-family:  Arial, sans-serif;
+}
+#fours{
+    margin-left: 190px;
+    margin-top: -40px;
+}
+#BuffChowmin{
+    border: 3px solid whitesmoke;
+    height: 200px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom: none;
+}
+
+.Buff-Chowmin{
+    border: 3px solid whitesmoke;
+    width: 300px;
+    margin-left: 406px;
+    margin-top: -200px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+#fourse{
+    margin-left:240px;
+    margin-top: -40px;
+}
+#MixedVegetableMasala{
+    border: 3px solid whitesmoke;
+    height: 240px;
+    margin-top: 0px;
+    margin-left: -30px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom: none;
+}
+.MixedVegetable{
+    border: 3px solid whitesmoke;
+    width: 239.5px;
+    margin-left: 778px;
+    margin-top: -180px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+  
+}
+#mixed{
+font-size: 20px;
+margin-left: 6px;
+font-family: Arial, sans-serif;
+
+}
+#Baneshowrs{
+    margin-left: 8px;
+    font-size: 13px;
+    font-family: Arial, sans-serif;
+    color: grey;
+}
+#CoconutShrimp{
+    border: 3px solid whitesmoke;
+    height: 180px;
+    margin-top: 10px;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom: none;
+ 
+}
+
+.Coconut-Shrimp{
+    border: 3px solid whitesmoke;
+    width: 270px;
+    height:204px;
+    margin-left: 1118px;
+    margin-top: -210px;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+}
+#Coconut{
+    margin-top: 30px;
+    font-size: 28px;
+    margin-left: 30px;
+}
+#bor{
+    border-bottom: 3px solid lightgray;
+   
+}
+
+
+/* last css */
+#khaja{
+    height: 100px;
+    margin-left: 80px;
+    margin-top: 30px;
+}
+.ghar{
+margin-top:-20px;
+    font-family: Arial, sans-serif;
+    background-color: whitesmoke;
+    height: 250px;
+}
+#savor{
+color: gray;
+font-size: 18px;
+margin-right: 78%;
+margin-left: 80px;
+}
+#location{
+font-size: 20px;
+margin-left: 78px;
+
+}
+.link{
+  list-style: none;
+  margin-left: 600px;
+  margin-top: -210px;  
+  font-family: Arial, sans-serif;
+}
+.link h1{
+    font-size: 22px;
+}
+.link li p{
+    margin-top: 35px;
+    font-size: 18px;
+  
+}
+.main{
+    list-style: none;
+    margin-left: 950px;
+    margin-top: -210px;  
+    font-family: Arial, sans-serif; 
+}
+#menu{
+    font-size: 11px;
+}
+#home{
+    margin-top: 30px;
+    font-size: 20px;
+}
+#menus{
+    margin-top: 38px; 
+    font-size: 20px;
+}
+#service{
+    margin-top: 30px; 
+    font-size: 20px;
+}
+.us{
+    list-style: none;
+    margin-left: 1250px;
+    margin-top: -215px;  
+    font-family: Arial, sans-serif;
+
+}
+#social{
+    font-size: 30px;
+    color: #C13584;
+}
+#face{
+    color: #1877F2;
+}
+#twitter{
+    color: black;
+}
